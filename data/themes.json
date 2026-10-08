@@ -1,6 +1,54 @@
 {
   "themes": [
     {
+      "id": 0,
+      "name": "Studio Ghibli Art",
+      "description": "Soft hand painted japanese art, watercolor like backgrounds, rounded character designs, lush greenery, expressive skies, warm neutral lighting and a dreamy storybook atmosphere. This art style is used by Studio Ghibli and other anime studios. This AI-image style became really during mid-2025.",
+      "prompt": {
+        "requirements": "* **Art Medium & Texture:** Soft, hand-painted Japanese animation aesthetic featuring watercolor-like backgrounds and painterly textures.\n* **Atmosphere:** Dreamy, nostalgic storybook feel.\n* **Environment:** Imitiate the environment of user in the theme.\n* **Character Design (if applicable):** Rounded, gentle character shapes with expressive, classic anime features.\n* **Lighting & Color:** Warm, neutral lighting with soft contrasts and a rich, natural color palette."
+      }
+    },
+    {
+      "id": 1,
+      "name": "Baroque Oil Painting",
+      "description": "Classic 17th-century European oil painting with dramatic lighting, rich textures, deep shadows, elegant detail, and grand old-master atmosphere.",
+      "prompt": {
+        "requirements": "* **Art Medium & Texture:** Traditional oil on aged canvas, layered pigments, visible brush strokes, subtle canvas grain, refined glazing, and light impasto highlights.\n* **Atmosphere:** Dramatic, majestic, solemn, luxurious, theatrical, and emotionally intense.\n* **Environment:** Imitiate the environment of user in the theme.\n* **Composition & Details:** Dynamic Baroque poses, realistic anatomy, expressive faces, flowing garments, ornate accessories, strong diagonals, and museum-style framing.\n* **Lighting & Color:** Strong chiaroscuro, warm directional light, deep blacks, burnt umber, ochre, crimson, muted gold, ivory tones, and rich shadow contrast."
+      }
+    },
+    {
+      "id": 2,
+      "name": "Pixar 3D Animation",
+      "description": "Warm, expressive 3D animated-film style with rounded characters, vibrant colors, soft cinematic lighting, and polished family-movie visuals.",
+      "prompt": {
+        "requirements": "* **Art Medium & Texture:** High-quality stylized 3D rendering, smooth surfaces, soft materials, polished skin shading, detailed fabrics, and clean animated-film textures.\n* **Atmosphere:** Warm, playful, emotional, adventurous, wholesome, and cinematic.\n* **Environment:** Imitiate the environment of user in the theme.\n* **Composition & Details:** Expressive faces, large readable eyes, appealing rounded proportions, clear silhouettes, natural poses, strong character emotion, and polished animated-feature framing.\n* **Lighting & Color:** Soft global illumination, warm rim lighting, vibrant but balanced colors, gentle shadows, cinematic depth, and bright highlights with a polished 3D movie look."
+      }
+    },
+    {
+      "id": 3,
+      "name": "Professional Studio Headshot",
+      "description": "Clean, realistic professional potrait with soft studio lighting, natural skin detail, neutral backgrounds, and a confident polished appearance.",
+      "prompt": {
+        "requirements": "* Art Medium & Texture: Photorealistic professional photography, realistic skin pores and facial texture, detailed natural hair, clean fabric textures, subtle professional retouching, and high-resolution camera detail without artificial plastic-looking skin.\n* Atmosphere: Confident, approachable, trustworthy, polished, calm, and professional while preserving the subject's natural personality.\n* Environment: Minimal studio backdrop in neutral gray, off-white, beige, or dark neutral tones, or a softly blurred professional office environment with no distracting objects.\n* Composition & Details: Head-and-shoulders or upper-torso portrait, eye-level camera, direct or slightly angled pose, natural relaxed expression, sharp eyes, realistic facial proportions, approximately 50–85mm portrait-lens appearance, shallow depth of field, clean business or business-casual clothing, and no text or watermarks.\n* Lighting & Color: Large soft key light with gentle fill, subtle catchlights in the eyes, optional soft rim light, balanced natural skin tones, controlled highlights, soft shadows, neutral professional color grading, and moderate contrast."
+      }
+    },
+    {
+      "id": 4,
+      "name": "Black & White Manga",
+      "description": "Classic Japanese comic style with crisp ink linework, screentone shading, expressive faces, dynamic framing and dramatic monochrome contrast",
+      "prompt": {
+        "requirements": "* Art Medium & Texture: Clean black ink illustration, crisp line art, varied line weight, screentone and halftone dot shading, light hatching, printed comic texture, and sharp monochrome detail.\n* Atmosphere: Energetic, emotional, cinematic, dramatic, and highly expressive, ranging from intense action to quiet character moments.\n* Environment: Japanese comic-inspired settings such as city streets, school halls, cafes, bedrooms, fantasy worlds, rooftops, or dramatic minimal backdrops with selective environmental detail.\n* Composition & Details: Manga-style framing with close-ups, dynamic angles, motion lines, expressive eyes, stylized hair, readable silhouettes, panel-like composition, strong storytelling poses, and no color, text bubbles, or watermarks unless intentionally requested.\n* Lighting & Color: Strictly black-and-white or grayscale, strong contrast, bold blacks, clean whites, screentone midtones, dramatic shadow placement, and graphic lighting that enhances mood and clarity."
+      }
+    },
+    {
+      "id": 5,
+      "name": "Colorful Managa",
+      "description": "Vibrant manga artwork with clean ink linework, expressive characters, cel shading, colourful backgrounds, and dynamic comic-style energy.",
+      "prompt": {
+        "requirements": "* Art Medium & Texture: Clean manga/anime-style line art, polished digital illustration, cel shading, smooth color fills, subtle texture accents, and crisp high-detail rendering.\n* Atmosphere: Lively, expressive, cinematic, emotional, and energetic, with a balance of comic storytelling and modern digital polish.\n* Environment: Colorful urban streets, classrooms, cafes, fantasy worlds, rooftops, bedrooms, or scenic outdoor settings with stylized manga-inspired detail.\n* Composition & Details: Expressive eyes, stylized hair, dynamic poses, strong silhouettes, manga-style framing, dramatic angles, action or emotion-focused composition, and clear character readability.\n* Lighting & Color: Bright, saturated colors, clean cel-shaded highlights, soft gradients when needed, vivid contrast, colorful ambient lighting, and a polished full-color manga look."
+      }
+    },
+    {
       "id": 6,
       "name": "3D Collectible Figurine",
       "description": "Viral 2025 AI trend that transforms people into realistic miniature collectible figures displayed on desks with detailed plastic textures and miniature accessories.",
