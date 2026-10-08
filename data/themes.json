@@ -1,0 +1,108 @@
+{
+  "themes": [
+    {
+      "id": 6,
+      "name": "3D Collectible Figurine",
+      "description": "Viral 2025 AI trend that transforms people into realistic miniature collectible figures displayed on desks with detailed plastic textures and miniature accessories.",
+      "prompt": {
+        "requirements": "* **Art Medium & Texture:** Photorealistic 1:7 scale collectible figurine with precision-sculpted facial features, premium painted resin, subtle plastic reflections, realistic miniature fabric details, and a polished transparent acrylic display base.\n* **Atmosphere:** Playful, collectible, premium, realistic, and visually satisfying.\n* **Environment:** Place the figurine on a realistic computer desk with a monitor, keyboard, and miniature display packaging. Preserve recognizable details from the user's original environment when practical.\n* **Composition & Details:** Full-body miniature figure faithfully resembling the uploaded subject, matching recognizable clothing, hairstyle, facial features, and accessories. Show the figurine standing on a transparent circular display base, with a desktop monitor showing a 3D modeling workspace in the background.\n* **Lighting & Color:** Soft studio illumination, realistic desk lighting, physically accurate shadows, subtle material reflections, shallow depth of field, and professional product-photography color grading."
+      }
+    },
+    {
+      "id": 7,
+      "name": "Action Figure Packaging",
+      "description": "Viral 2025 boxed-toy trend turning people into collectible action figures with blister packaging, miniature accessories, and professional toy-store presentation.",
+      "prompt": {
+        "requirements": "* **Art Medium & Texture:** High-quality collectible action figure made from realistic molded plastic with glossy highlights, carefully painted features, detailed clothing, and transparent blister packaging.\n* **Atmosphere:** Playful, personalized, collectible, polished, and nostalgic.\n* **Environment:** Display the figure inside professional retail toy packaging with a clean cardboard backing and molded transparent plastic shell.\n* **Composition & Details:** Transform the uploaded subject into a complete standing action figure while preserving facial resemblance, hairstyle, clothing identity, and recognizable accessories. Arrange three small accessories in separate molded compartments. Use premium packaging layout, strong product visibility, and natural toy proportions. Avoid invented brand logos and unnecessary text.\n* **Lighting & Color:** Bright professional product lighting, clean reflections on transparent plastic, balanced contrast, vivid but controlled packaging colors, and realistic contact shadows."
+      }
+    },
+    {
+      "id": 8,
+      "name": "Retro Bollywood Portrait",
+      "description": "Popular 2025 AI photo trend inspired by vintage Indian cinema, featuring nostalgic film grain, classic fashion, soft golden light, and romantic 1990s movie aesthetics.",
+      "prompt": {
+        "requirements": "* **Art Medium & Texture:** Authentic vintage Indian cinema photography, fine analog film grain, delicate softness, slightly faded colors, realistic skin texture, and subtle scanned-film imperfections.\n* **Atmosphere:** Romantic, nostalgic, elegant, dreamy, cinematic, and timeless.\n* **Environment:** Transform the user's surrounding environment into a visually compatible vintage Indian cinematic setting, retaining recognizable architecture or scenery where practical.\n* **Composition & Details:** Preserve the subject's facial identity and recognizable features. Apply elegant 1990s Bollywood-inspired fashion appropriate to the subject, such as classic sarees, tailored shirts, vintage jackets, or traditional formalwear. Use natural poses, expressive eyes, flowing fabric, wind-swept hair, and authentic period styling.\n* **Lighting & Color:** Warm golden-hour sunlight, soft directional shadows, muted amber highlights, earthy tones, subtle cinematic bloom, and vintage color grading."
+      }
+    },
+    {
+      "id": 9,
+      "name": "Vintage Polaroid",
+      "description": "Nostalgic instant-film photography with soft flash, vintage grain, faded colors, candid poses, and the unmistakable white Polaroid border.",
+      "prompt": {
+        "requirements": "* **Art Medium & Texture:** Authentic instant-film photograph with subtle photographic grain, mild softness, realistic film exposure, natural skin texture, and slightly imperfect analog processing.\n* **Atmosphere:** Nostalgic, intimate, spontaneous, personal, warm, and sentimental.\n* **Environment:** Retain recognizable elements of the user's original environment or simplify the background into a natural indoor or outdoor candid-photo setting.\n* **Composition & Details:** Preserve facial identity, realistic proportions, clothing characteristics, and natural expressions. Use a slightly imperfect candid composition inside a traditional white instant-film border with a thicker bottom margin. Avoid artificial writing, logos, and extra subjects.\n* **Lighting & Color:** Direct but softly diffused camera flash, mild highlight bloom, gentle shadow falloff, slightly faded warm tones, subtle color shifts, and authentic vintage instant-film contrast."
+      }
+    },
+    {
+      "id": 10,
+      "name": "Cinematic Movie Portrait",
+      "description": "Dramatic movie-quality portraits with realistic details, atmospheric backgrounds, cinematic lighting, rich shadows, and professional film color grading.",
+      "prompt": {
+        "requirements": "* **Art Medium & Texture:** Photorealistic digital cinema photography, realistic facial texture, detailed clothing, subtle film grain, refined cinematic sharpness, and natural optical depth.\n* **Atmosphere:** Dramatic, immersive, emotionally powerful, sophisticated, and cinematic.\n* **Environment:** Reimagine the user's existing environment as a cinematic film location while preserving its recognizable architecture, scenery, and overall context.\n* **Composition & Details:** Preserve the subject's identity, natural facial structure, hairstyle, and realistic anatomy. Use professional movie framing, expressive but natural posing, strong visual storytelling, foreground-background separation, and a 35mm or 50mm cinema-lens aesthetic.\n* **Lighting & Color:** Motivated directional lighting, cinematic shadow gradients, controlled highlights, subtle atmospheric haze, rich contrast, and balanced teal-orange or neutral film color grading appropriate to the scene."
+      }
+    },
+    {
+      "id": 11,
+      "name": "Cyberpunk Neon Portrait",
+      "description": "Futuristic cyberpunk portraits with glowing neon signs, rain-soaked streets, technological fashion, holographic details, and vivid cinematic night lighting.",
+      "prompt": {
+        "requirements": "* **Art Medium & Texture:** Hyper-detailed cinematic digital photography with realistic human skin, reflective futuristic materials, wet surfaces, metallic accents, and subtle atmospheric effects.\n* **Atmosphere:** Futuristic, mysterious, rebellious, immersive, energetic, and cinematic.\n* **Environment:** Reimagine the user's environment as a futuristic cyberpunk district with glowing signage, towering urban architecture, reflective streets, and atmospheric mist, while retaining relevant spatial features.\n* **Composition & Details:** Preserve the subject's recognizable facial identity and natural proportions. Introduce futuristic clothing, subtle technology-inspired accessories, layered urban backgrounds, and cinematic portrait framing without obscuring the face.\n* **Lighting & Color:** Vibrant cyan, electric blue, magenta, and violet neon lights, realistic colored reflections, dark atmospheric shadows, rim lighting, and controlled high-contrast cinematic grading."
+      }
+    },
+    {
+      "id": 12,
+      "name": "1990s Yearbook Portrait",
+      "description": "Classic American 1990s school-yearbook photography with vintage hairstyles, colorful retro outfits, soft studio backdrops, and nostalgic portrait lighting.",
+      "prompt": {
+        "requirements": "* **Art Medium & Texture:** Authentic 1990s school-yearbook film photography with gentle softness, subtle print grain, realistic facial textures, slightly faded color reproduction, and traditional photographic finishing.\n* **Atmosphere:** Nostalgic, cheerful, youthful, playful, and retro.\n* **Environment:** Replace the original background with a classic mottled blue, gray, or brown school-portrait studio backdrop.\n* **Composition & Details:** Preserve the uploaded subject's face and recognizable characteristics. Apply period-appropriate 1990s hairstyles and casual fashion, natural seated or standing poses, straightforward shoulder-up framing, and a relaxed yearbook smile. Avoid dates, school names, and fabricated text.\n* **Lighting & Color:** Soft frontal studio lighting, gentle fill shadows, moderate contrast, warm natural skin tones, slightly faded photographic colors, and traditional portrait exposure."
+      }
+    },
+    {
+      "id": 13,
+      "name": "LEGO Minifigure",
+      "description": "Playful plastic-brick character style transforming people into recognizable LEGO-like minifigures with glossy surfaces, geometric proportions, and miniature brick-built environments.",
+      "prompt": {
+        "requirements": "* **Art Medium & Texture:** High-quality 3D rendering of interlocking plastic construction toys, smooth injection-molded plastic, subtle surface reflections, precise brick geometry, and clean toy-like textures.\n* **Atmosphere:** Playful, colorful, imaginative, cheerful, and collectible.\n* **Environment:** Reconstruct recognizable elements of the user's original environment using miniature interlocking plastic bricks, tiles, and modular toy structures.\n* **Composition & Details:** Represent the uploaded subject as a recognizable minifigure with a cylindrical head, simplified printed facial features, block-shaped torso, articulated arms, and short geometric legs. Preserve identifying hairstyle, clothing colors, and accessories through toy-compatible designs.\n* **Lighting & Color:** Bright studio lighting, realistic plastic reflections, colorful but balanced tones, soft shadows, ambient occlusion, and clean high-quality 3D rendering."
+      }
+    },
+    {
+      "id": 14,
+      "name": "Claymation Character",
+      "description": "Charming stop-motion clay animation with handmade characters, rounded sculpted features, tactile textures, and colorful miniature environments.",
+      "prompt": {
+        "requirements": "* **Art Medium & Texture:** Traditional handmade clay animation aesthetic featuring sculpted plasticine, subtle fingerprints, tactile material imperfections, soft rounded edges, and miniature handcrafted props.\n* **Atmosphere:** Whimsical, cozy, playful, charming, expressive, and handcrafted.\n* **Environment:** Recreate the uploaded image's surroundings as a miniature handmade clay set while preserving recognizable objects, architecture, and spatial arrangement.\n* **Composition & Details:** Transform the subject into a stylized clay character with recognizable hairstyle, facial identity, clothing colors, and expression. Use gently exaggerated proportions, sculpted fabric shapes, and believable stop-motion puppet design.\n* **Lighting & Color:** Soft miniature-set illumination, warm diffuse lighting, pastel and earthy colors, gentle contact shadows, realistic material shading, and subtle cinematic depth."
+      }
+    },
+    {
+      "id": 15,
+      "name": "Vintage Film Photography",
+      "description": "Authentic analog film photography with natural colors, soft highlights, visible grain, understated contrast, and nostalgic 35mm camera aesthetics.",
+      "prompt": {
+        "requirements": "* **Art Medium & Texture:** Realistic 35mm analog film photography, subtle grain structure, natural photographic imperfections, fine detail, slightly softened highlights, and realistic film response.\n* **Atmosphere:** Nostalgic, relaxed, authentic, understated, timeless, and candid.\n* **Environment:** Preserve the original photographed setting, including architecture, background objects, spatial relationships, and natural environmental details.\n* **Composition & Details:** Preserve the subject's exact facial identity, hairstyle, clothing, body proportions, and natural pose. Maintain realistic camera framing, imperfect candid authenticity, and ordinary photographic details without adding unnecessary props.\n* **Lighting & Color:** Natural available light, slightly warm or faded color rendering, gentle film halation, controlled contrast, soft highlight roll-off, and realistic analog shadow tones."
+      }
+    },
+    {
+      "id": 16,
+      "name": "Renaissance Royal Portrait",
+      "description": "Regal European Renaissance-style portrait with luxurious historical clothing, detailed painted textures, classical composition, and museum-quality old-master aesthetics.",
+      "prompt": {
+        "requirements": "* **Art Medium & Texture:** Traditional Renaissance oil painting on aged canvas, delicate layered brushwork, realistic painted skin, subtle canvas grain, rich fabric textures, and refined artistic detail.\n* **Atmosphere:** Regal, dignified, classical, historical, elegant, and timeless.\n* **Environment:** Transform the user's environment into an elegant historical interior or classical architectural setting, retaining recognizable structural details when appropriate.\n* **Composition & Details:** Preserve facial resemblance and recognizable features. Dress the subject in historically inspired royal garments with velvet, embroidered fabric, elaborate collars, decorative accessories, and dignified poses. Use traditional three-quarter portrait framing, balanced anatomy, and classical visual hierarchy.\n* **Lighting & Color:** Soft window illumination, deep earthy shadows, muted gold, burgundy, forest green, ivory, warm skin tones, and restrained old-master color harmony."
+      }
+    },
+    {
+      "id": 17,
+      "name": "Superhero Comic Art",
+      "description": "Bold American comic-book illustration with dynamic poses, detailed ink outlines, dramatic shading, vibrant colors, and powerful superhero aesthetics.",
+      "prompt": {
+        "requirements": "* **Art Medium & Texture:** High-quality Western superhero comic illustration with bold ink outlines, varied line weights, detailed cross-hatching, polished digital coloring, and subtle halftone textures.\n* **Atmosphere:** Heroic, energetic, powerful, dramatic, adventurous, and cinematic.\n* **Environment:** Transform the user's surroundings into a stylized comic-book environment while retaining major environmental structures and recognizable scene elements.\n* **Composition & Details:** Preserve the subject's recognizable facial characteristics, hairstyle, and general appearance. Adapt clothing into an original superhero-inspired costume with strong graphic shapes and a distinctive silhouette. Use dynamic but anatomically plausible posing, dramatic perspective, expressive faces, and original character design without existing superhero logos.\n* **Lighting & Color:** Bold dramatic highlights, saturated red, blue, yellow, and complementary color combinations, graphic shadow blocks, strong rim lighting, and vibrant cinematic contrast."
+      }
+    },
+    {
+      "id": 18,
+      "name": "8-Bit Pixel Art",
+      "description": "Retro video-game portrait with chunky pixel graphics, limited color palettes, simplified character designs, and nostalgic classic arcade aesthetics.",
+      "prompt": {
+        "requirements": "* **Art Medium & Texture:** Authentic low-resolution pixel art with individually defined square pixels, deliberately limited color palette, crisp hard edges, and no anti-aliasing or smooth gradients.\n* **Atmosphere:** Nostalgic, playful, retro, adventurous, and visually charming.\n* **Environment:** Translate recognizable elements of the user's original environment into a coherent retro video-game scene using pixel-based buildings, scenery, furniture, and environmental objects.\n* **Composition & Details:** Reinterpret the subject as a recognizable 8-bit-inspired game character while preserving identifying hairstyle, clothing colors, accessories, and facial expression through readable pixel clusters. Use consistent pixel dimensions, simplified proportions, and clean sprite-style composition.\n* **Lighting & Color:** Limited retro gaming palette, discrete stepped shading, clearly separated color regions, high pixel-level contrast, and consistent low-resolution lighting."
+      }
+    }
+  ]
+}

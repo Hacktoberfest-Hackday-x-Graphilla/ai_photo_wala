@@ -1,0 +1,6 @@
+/venv
+.env
+/services/__pycache__
+/test
+/__pycache__
+/vector/__pycache__

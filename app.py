@@ -1,0 +1,79 @@
+from pathlib import Path
+
+from fastapi import FastAPI, HTTPException
+from fastapi.middleware.cors import CORSMiddleware
+from fastapi.responses import FileResponse
+from fastapi.staticfiles import StaticFiles
+from pydantic import BaseModel
+
+from services.imgen import generate_image
+from services.json import get_all_themes, get_theme_by_id
+from services.prompt import generate_prompt
+
+app = FastAPI()
+
+BASE_DIR = Path(__file__).resolve().parent
+FRONTEND_DIR = BASE_DIR / "frontend"
+
+app.add_middleware(
+    CORSMiddleware,
+    allow_origins=["*"],
+    allow_credentials=False,
+    allow_methods=["*"],
+    allow_headers=["*"],
+)
+
+
+class Image(BaseModel):
+    theme_id: int
+    input_image_url: str
+
+
+@app.get("/")
+def root():
+    return FileResponse(FRONTEND_DIR / "index.html")
+
+
+@app.post("/generate-image")
+def send_image(image_req: Image):
+    try:
+        prompt = generate_prompt(image_req.theme_id)
+        output_image_url = generate_image(prompt, image_req.input_image_url)
+        return {"message": "Image Generated Succesfully", "image_url": output_image_url}
+    except HTTPException:
+        raise
+    except Exception as e:
+        raise HTTPException(status_code=500, detail=str(e))
+
+
+@app.get("/get-all-themes")
+def send_all_themes():
+    try:
+        all_themes = get_all_themes()
+        return {"message": "All themes Fetched", "themes": all_themes}
+    except HTTPException:
+        raise
+    except Exception as e:
+        raise HTTPException(status_code=500, detail=str(e))
+
+
+@app.get("/get-theme/{id}")
+def send_theme_by_id(id: int):
+    try:
+        theme = get_theme_by_id(id)
+        if not theme:
+            raise HTTPException(status_code=404, detail="Theme not found")
+
+        return {"theme": theme}
+    except HTTPException:
+        raise
+    except Exception as e:
+        raise HTTPException(status_code=500, detail=str(e))
+
+
+@app.get("/api/health")
+def health():
+    return {"message": "I feel good :)"}
+
+
+app.mount("/", StaticFiles(directory=FRONTEND_DIR, html=True), name="frontend")
